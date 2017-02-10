@@ -1,0 +1,293 @@
+{
+  "basics": {
+    "name": "Mark P. Liu",
+    "label": "Full Stack Developer / Architect",
+    "picture": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/richard.png",
+    "email": "mark@nimblemobile.com",
+    "phone": "(240) 560-3421",
+    "website": "http://mark.nimblemobile.com/",
+    "summary": "Mr. Liu is a high-performing value-oriented engineering leader with expertise in building/optimizing engineering organizational processes, continuous improvement (kata), and improving infrastructure to maximize business results.  Mr. Liu's many years of experience as the technical lead and architect on various projects",
+    "location": {
+      "city": "Besthesda",
+      "countryCode": "US",
+      "region": "Maryland"
+    },
+    "profiles": [
+      {
+        "url": "https://twitter.com/markpliu",
+        "username": "markpliu",
+        "network": "Twitter"
+      },
+      {
+        "url": "https://www.linkedin.com/in/markpliu",
+        "username": "markpliu",
+        "network": "LinkedIn"
+      }
+    ]
+  },
+  "work": [
+    {
+      "highlights": [
+        "Identified risks and solution in release deployment and accessibility, assembled leadership, production teams, secured capital investment, and successfully lead developmenet and deployment of Redis-Sentinel High Availability within multitude of contraints and stakeholder requirements accross multiple microservices.",
+        "Lead the successful development and launch of TSA Pre✓®'s public-facing website and administrative portal applications utilizing a tech stack of NodeJS, ExpressJS, EJS, DustJS, Bootstrap, JQuery, and Angular",
+        "Significantly streamlined employee onboarding by implementing a Docker development workflow solution",
+        "Found solutions to mitigate peak traffic risks by implemented both internal JMeter and external Blazementer Automated Load Tests in CI pipeline",
+        "To reduce the cost of manual regression testing, devised plan and spearheaded the process of e2e cross-clatform Test Driven Development call Automated Acceptancel Tests (AAT) to our engineering division using the Cucumber framework - a cost savings of $2+ million dollars.  Technologies used include Redis, CucumberJS and SpecFlow."
+      ],
+      "summary": "The Transportation Security Administration (TSA) has transitioned multiple security threat assessment programs to an enrollment services provider, MorphoTrust USA (Safran), as part of TSA’s Universal Enroll initiative. Universal Enroll provides convenient online and in-person enrollment capabilities, including a network of enrollment centers located across the United States and in some U.S. Territories. Enrollment services include the capture of biometric data (photographs/fingerprints), biographic data, and identity documentation required to enroll and register for certain TSA security threat assessment programs. Additional services include payment and credential services, as well as overall customer service support.",
+      "startDate": "2013-12-01",
+      "website": "https://universalenroll.dhs.gov",
+      "position": "Principal Software Engineer/Development Lead/Coach - Universal Enrollment Services",
+      "company": "Safran MorphoTrust USA",
+      "location": {
+        "city": "(Remote) Nashville",
+        "region": "Tennesee",
+        "countryCode": "US"
+      }
+    },
+    {
+      "highlights": [
+        "DAC become the first product in the history of the company to deliver on time and receive TSA ATO on schedule",
+        "Aviation Channel (DAC) project team/development lead",
+        "Hazprint (HME) project team/development lead",
+        "Build DC development team and infrastructure from zero",
+        "Requirements analysis, architectural planning, development, delivery of Aviation Channeling using Spring and ExtJS stack"
+      ],
+      "summary": "As the team-lead and mentor, lead other senior software engineers and assists in their quality software design and execution. Provide leadership / guidance to the development teams during the analysis, development and testing processes. Provide expert knowledge of application architecture, and consult business and technology teams when application architecture knowledge is needed. Maintain 90% development and 10% leadership balance. Mandated to lead developers and deliver product with quality at all costs. Assist in growing federal region customer base and their software development needs including the TSA, DHS, FBI, and the U.S. State Department. Work in agile and fast paced teams using Scrum methodology in a startup like environment. Screen and conduct all technical phone and face-to- face interviews for Senior Development, DBA, Network/Systems, as well as QA team needs. Served as Scrummaster and lead Kanban practices, management, and standups across federal projects in the DC office.",
+      "endDate": "2013-03-01",
+      "startDate": "2011-10-01",
+      "website": "http://morphotrust.com",
+      "position": "Deputy Chief Engineer/Development Lead - Aviation Channeling Services, Hazprint/HME",
+      "company": "Safran MorphoTrust USA",
+      "location": {
+        "city": "Washington",
+        "region": "D.C.",
+        "countryCode": "US"
+      }
+    },
+    {
+      "highlights": [
+        "Developer to e-Management’s flagship risk management product, eGov RPM. Develop key enhancements to eGov RPM product including locking ability, UI improvements, container based permissions, new AJAX grids with advanced features, Spring Security PIV card using x509 certificates, and much more. PIV card feature required onsite integration and deployment. This feature enables the product to participate in virtually all HSPD-12 compliant federal agencies, allowing for continuation of existing and new business acquisition opportunities. Enhance user interface in many areas. Implement proof of concepts for AJAX style grid frameworks between jQuery and ExtJS frameworks and eventually replacement of existing html tables. In addition, resolve existing bugs and help to stabilize overall product. Technologies used include Spring 3, Hibernate + JPA, Spring Security, Struts 2, Dojo, Tiles, JSP, CrystalReports, javascript, CSS, jQuery (ui, layout, jqgrid plugins), Maven, Selenium, CMMI Level II, and Hudson.",
+        "Migrate all existing and current Java application projects across our NIH divisions from Apache Ant build system into hierarchical Maven projects. This enabled better organization of build versioning, dependency management of external and internal libraries, and unit testing and packed into a streamlined process.",
+        "Develop new feature and visual enhancements to e-Management’s CMMI (Capability Maturity Model Integration) management application products, e-PAL and e-PMO, through AJAX and CSS. Complete overhaul of metric entry, submission, updating using dynamically updated new metric business rules throughout application.",
+        "Add new User Acceptance Test (UAT) build automation through Maven and Selenium, in addition to other build lifecycle enhancements using Maven and Hudson.",
+        "Serve as client facing SME for Microsoft .NET and SharePoint software development projects.",
+        "Meet with senior level management on company product vision, strategy, and roadmap. Creator to e-Management’s new community based AllAboutRisks social marketing approach and business initiative, a semi-community based resource (blog, forum, reference documents) for risk management practitioners and managers. Propose and prototype several ideas, including a new eGov RPM dashboard screen."
+        ],
+      "summary": "",
+      "endDate": "2013-03-01",
+      "startDate": "2011-10-01",
+      "website": "http://www.e-mcinc.com/",
+      "position": "Java Developer Consultant",
+      "company": "e-Management Consultants Inc.",
+      "location": {
+        "city": "Silver Spring",
+        "region": "Maryland",
+        "countryCode": "US"
+      }
+    },
+    {
+      "highlights": [
+        "Primary developer in planning and development of Java web application spreadsheet generation and management application, allowing administrators to upload existing spreadsheet templates to the web application and managed customization to groups of users across different ICs at NIH. Users are able to generate customized spreadsheets that are assigned to them by an administrator. Spreadsheets are dynamically generated from existing templates and injected with data using POI HSSF library. Technologies used to develop this project include Spring, Spring MVC, Hibernate, Oracle, Tiles, JSP, POI, Log4j, Maven, and Tomcat.",
+        "Development of new Java web application through the entire software development life cycle using Struts, Shale, RichFaces, Ajax4JSF, JSP, FOP, XSLT, Word-ML, JDO, JavaScript, CSS, custom AJAX, Oracle, and Tomcat. The application enables users to search existing, create, generate documentation from templates, as well as create customized document bundles on the fly for custom recipients. Allows for tracking of documentation through various stages by various parties and principles. Independently develop custom document generation wizard through a series of web dialogs. As well as develop custom backend document generation library template system from scratch, superior to available commercial Java MS Word libraries, tailored to the customer’s needs, bringing signification savings to the customer. The application integrates into existing GAO client/server document repository as well as other network resources for various data lookups."
+      ],
+      "summary": "",
+      "endDate": "2013-03-01",
+      "startDate": "2011-10-01",
+      "website": "http://www.acentia.com/",
+      "position": "Senior Developer",
+      "company": "Acentia",
+      "location": {
+        "city": "Silver Spring",
+        "region": "Maryland",
+        "countryCode": "US"
+      }
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "courses": [],
+      "gpa": "4.0",
+      "endDate": "2006-05-17",
+      "startDate": "2004-09-01",
+      "studyType": "Master",
+      "area": "Computer Science",
+      "institution": "Towson University"
+    },
+    {
+      "courses": [],
+      "gpa": "4.0",
+      "endDate": "2002-12-17",
+      "startDate": "1998-09-01",
+      "studyType": "Bachelor",
+      "area": "Computer Science",
+      "institution": "University of Maryland"
+    },
+    {
+      "courses": [
+        "AWS Certified Developer - Associate",
+        "MCTS: SharePoint 2010, Application Development",
+        "MCTS: .NET Framework 3.5, ASP.NET Applications",
+        "MCTS: .NET Framework Foundations",
+        "MCP: Windows Server 2003 Administration",
+        "CCNA",
+        "A+"
+      ],
+      "gpa": "",
+      "studyType": "Certificates",
+      "area": "",
+      "institution": ""
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Java",
+        "SQL",
+        "C#",
+        "Redis",
+        "Redis-Sentinel",
+        "LeSS/SaSS",
+        "Angular",
+        "Angular2",
+        "NPM",
+        "Grunt",
+        "NodeJS",
+        "ExpressJS",
+        "Spring",
+        "EJS",
+        "DustJS",
+        "Bootstrap",
+        "JQuery",
+        "JQuery UI",
+        "Spring Integration",
+        "Spring Security",
+        "Spring MVC",
+        "Sharepoint 2011",
+        "ExtJS 4",
+        "WebRTC",
+        "Ionic",
+        "JPA/Hibernate",
+        "AOP",
+        "Google Analytics"
+      ],
+      "level": "Master",
+      "name": "Software Development"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Vagrant",
+        "GIT",
+        "Fig, Orchard",
+        "TeamCity",
+        "YouTrack",
+        "IntelliJ, Webstorm",
+        "Confluence",
+        "Jenkins",
+        "SVN",
+        "VersionOne",
+        "AWS EC2",
+        "AWS ECS",
+        "Heroku"
+      ],
+      "level": "Master",
+      "name": "DevOps / CI / Cloud Infrastructure"
+    },
+    {
+      "keywords": [
+        "Checkpoint NGX",
+        "Cisco Managed Routers and Switches",
+        "VOIP",
+        "Exchange",
+        "AD",
+        "Multi-homed and advanced topologies",
+        "Citrix",
+        "VMWare ecosystem",
+        "SQL Server",
+        "BackupExec"
+      ],
+      "level": "Master",
+      "name": "Traditional Systems Infrastructure"
+    },
+    {
+      "keywords": [
+        "Mocha",
+        "Chai",
+        "Sinon",
+        "Karma",
+        "Protractor",
+        "JUnit",
+        "Mockito",
+        "CasperJS",
+        "CucumberJS",
+        "Selenium-Webdriver",
+        "Blazemeter",
+        "JMeter"
+      ],
+      "level": "",
+      "name": "Test / Automation"
+    },
+    {
+      "keywords": [
+        "Scrum",
+        "Kanban"
+      ],
+      "level": "",
+      "name": "Agile"
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Native speaker",
+      "language": "Mandarin"
+    },
+    {
+      "fluency": "Native speaker",
+      "language": "Shanghai"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Skiing",
+        "Tennis",
+        "Hockey"
+      ],
+      "name": "Sports"
+    },
+    {
+      "keywords": [
+        "Traveling"
+      ],
+      "name": "Hobbies"
+    },
+    {
+      "keywords": [
+        "Kubernetes",
+        "Autopilot"
+      ],
+      "name": "Tech"
+    }
+  ],
+  "references": [
+    {
+      "reference": "",
+      "name": "Alan Halachmi - Amazon, Sr. Solutions Architect"
+    },
+    {
+      "reference": "",
+      "name": "Matt Baldree - MorphoTrust USA, VP of Engineering"
+    }
+  ]
+}
